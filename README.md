@@ -4,4 +4,4 @@
 
 After running the commend
 
-<mark>./gradlew build</mark>
+:::tip./gradlew build:::
